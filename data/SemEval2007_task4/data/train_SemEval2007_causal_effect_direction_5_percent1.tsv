@@ -1,0 +1,6 @@
+sentence_source	label	label_notes	sentence
+63	0	dummy	"""The troubled company is still feeling <e1>aftershocks</e1> after its devastating <e2>withdrawal</e2> of the pain medication Vioxx six months ago."""
+64	0	dummy	"""Two sides search for the naked truth in the <e1>fight</e1> over a <e2>painting</e2> on display in a Florida shop."""
+65	0	dummy	"""In the months leading up to trade negotiations, estimates of the <e1>economic gains</e1> from <e2>trade liberalization</e2> suddenly become newsworthy."""
+66	0	dummy	"""The design of the shape of the can ends moreover has a marked effect on their ability to resist <e1>deformation</e1> from <e2>internal pressure</e2>."""
+67	1	dummy	"""This understanding is consistent with behavioural studies that have failed to clearly distinguish between people with <e1>drinking</e1> <e2>problems</e2> and others."""

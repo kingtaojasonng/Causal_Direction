@@ -1,0 +1,74 @@
+sentence_source	label	label_notes	sentence	e1	e2	e1_e2	count_e1	count_e2	count_e1_e2
+1	0	dummy	The period of tumor shrinkage after radiation therapy is often long and varied (mean months).	tumor shrinkage	radiation therapy	tumor shrinkage radiation therapy	882	12,300	314
+3	0	dummy	Earplugs relieve the discomfort from traveling with a cold allergy or sinus condition.	discomfort	traveling	discomfort traveling	11,400	5,270	192
+4	0	dummy	We continue to see progress toward a world free of the daily terror of antipersonnel land mines.	daily terror	antipersonnel land mines	daily terror antipersonnel land mines	363	1	
+6	0	dummy	The report links conditions in some of the worst affected localities and the likelihood that dire poverty  combined with despair and outrage over rampant corruption, repressive policies, and governments' failure to address local needs  could lead to outbreaks of localised unrest with the potential to spread into a wider regional conflict.	outrage	rampant corruption	outrage rampant corruption	344	5	2
+8	0	dummy	Famine following drought has hit the West African savannahs, where there have been other bad droughts, notably the great one of 1972-74.	Famine	drought	Famine drought	465	273	19
+9	0	dummy	People in Hawaii might be feeling aftershocks from that powerful earthquake for weeks.	aftershocks	earthquake	aftershocks earthquake	73	762	9
+11	1	dummy	Zinc is essential for growth and cell division.	Zinc	growth	Zinc growth	3,130	49,400	1,420
+13	0	dummy	Apartment residents in Delaware were awarded $million for health problems attributed to mold growth from unrepaired leaks.	mold growth	unrepaired leaks	mold growth unrepaired leaks	372	4	
+14	0	dummy	This industry and way of life, however, is in trouble as salmon decline due to habitat degradation from dams, clearcutting, and overgrazing along streams.	habitat degradation	dams	habitat degradation dams	8	2,570	4
+15	0	dummy	It is widely known that significant reductions of these levels produce pastries with poor lift in the oven and with unacceptable shrinkage after cooling.	shrinkage	cooling	shrinkage cooling	1,160	1,700	17
+16	0	dummy	Teens will find a realistic model for improving self-esteem, confronting challenges head on and the possibilities of achievement through perseverance.	achievement	perseverance	achievement perseverance	6,650	1,070	22
+23	0	dummy	There should be no revenue increase from the tax cuts - except possibly from the cuts in the higher tax rates.	revenue increase	tax cuts	revenue increase tax cuts	2,240	652	95
+25	0	dummy	There exists a widespread controversy over stem cell research that emanates from the techniques used in the creation and usage of stem cells.	controversy	stem cell research	controversy stem cell research	20,900	16,000	1,330
+27	0	dummy	Aromatherapy can be used for stress relief through massage with sedatives like lavender and sweet marjoram.	stress relief	massage	stress relief massage	5,150	2,940	126
+29	0	dummy	The resulting anti-social behaviour from alcohol consumption is an on-going matter that the town and the police continue to address, particularly in the summer months.	anti-social behaviour	alcohol consumption	anti-social behaviour alcohol consumption	163	7,090	526
+30	0	dummy	Complementing the data from PARK, GeoFEST will model the evolution of stress and strain in a detailed simulation of the crust and mantle, potentially helping researchers predict the deformation from an earthquake or a series of quakes.	deformation	earthquake	deformation earthquake	1,980	762	
+32	0	dummy	It is likely that the nausea comes from abnormal sensations originating from areas of the brain that are sensing the lack of oxygen.	nausea	abnormal sensations	nausea abnormal sensations	17,900	3,760	1,400
+33	0	dummy	That seems to me like an accusation out of ignorance seeing that you don't even know what my characters name is.	accusation	ignorance	accusation ignorance	550	4,090	92
+34	0	dummy	In summer 2000, an Adventist church in Polotsk, Vitebsk Region, was damaged by a fire started with flammable liquids.	fire	flammable liquids	fire flammable liquids	4,430	7	5
+35	0	dummy	Genuine joy comes from profound spiritual awareness on life and an absolute clarity of direction, living for a purpose.	joy	spiritual awareness	joy spiritual awareness	1,790	156	9
+39	0	dummy	Eye discomfort from this staring effect is exacerbated by low humidity.	discomfort	staring effect	discomfort staring effect	11,400	614	29
+41	0	dummy	He derives great joy and happiness from cycling.	happiness	cycling	happiness cycling	5,590	1,160	47
+42	0	dummy	The pollution in rain comes from mercury air pollution from coal-fired power plants and other industries.	pollution	mercury air pollution	pollution mercury air pollution	8,430	46	50
+44	0	dummy	Alabama has since enacted legislation, allowing death by lethal injection as an alternative choice to death in the electric chair.	death	lethal injection	death lethal injection	82,400	1,510	899
+47	0	dummy	Sudden death from inhalation of petroleum distillates is well recognised in misuses of volatile substances.	death	inhalation	death inhalation	82,400	10,300	5,780
+51	0	dummy	The randomized hypertensive ABCD study demonstrated a decrease in myocardial infarction with ACE inhibitors and a decrease in overall mortality with aggressive blood pressure control.	decrease	blood pressure control	decrease blood pressure control	61,600	22,400	10,800
+52	0	dummy	It was also felt necessary at this time to draw up a similar document, dealing not with the prevention of marine pollution by dumping, but instead with the prevention of marine pollution by discharges of dangerous substances from land-based sources, watercourses or pipelines.	marine pollution	dumping	marine pollution dumping	106	440	1
+55	0	dummy	The risks of this procedure include anesthesia complications (especially General), post-operative difficulty breathing, and sore throat from intubation.	sore throat	intubation	sore throat intubation	10,100	6,650	183
+57	0	dummy	Their chemical activation by light (halogen, plasma, lasers, etc.) enhances their efficiency by reducing exposure time and number of appointments.	activation	light	activation light	69,600	51,200	8,290
+58	0	dummy	The spiciness comes from small capsaicin glands located between the pepper's outside skin and the white ribs inside.	spiciness	capsaicin glands	spiciness capsaicin glands	1	3	
+60	0	dummy	Someone once said that progress comes from dissatisfaction.	progress	dissatisfaction	progress dissatisfaction	98,300	926	594
+61	0	dummy	Ray Parlour shows his frustration after Middlesbrough's defeat.	frustration	defeat	frustration defeat	2,890	1,450	36
+62	0	dummy	If governments were once content to passively realize the benefits from funding basic research, the determination to be part of the knowledge-based economy has driven OECD countries to extract greater direct benefits from publicly funded research.	benefits	funding basic research	benefits funding basic research	74,300	12,600	17,900
+63	0	dummy	The troubled company is still feeling aftershocks after its devastating withdrawal of the pain medication Vioxx six months ago.	aftershocks	withdrawal	aftershocks withdrawal	73	15,100	3
+64	0	dummy	Two sides search for the naked truth in the fight over a painting on display in a Florida shop.	fight	painting	fight painting	4,130	6,080	23
+65	0	dummy	In the months leading up to trade negotiations, estimates of the economic gains from trade liberalization suddenly become newsworthy.	economic gains	trade liberalization	economic gains trade liberalization	3,210	5	3
+66	0	dummy	The design of the shape of the can ends moreover has a marked effect on their ability to resist deformation from internal pressure.	deformation	internal pressure	deformation internal pressure	1,980	13,200	69
+67	1	dummy	This understanding is consistent with behavioural studies that have failed to clearly distinguish between people with drinking problems and others.	drinking	problems	drinking problems	9,730	70,800	5,130
+69	0	dummy	In the most common form of such an attack, called ischemic stroke, the blockage comes from a blood clot that develops in one of the brain's blood vessels.	blockage	blood clot	blockage blood clot	1,100	8,210	214
+72	0	dummy	Manila radio station DZMM quoted survivors as saying that the fire started with an explosion in the cargo hold and spread across the ship within minutes.	fire	explosion	fire explosion	4,430	3,400	
+74	0	dummy	Thatch is caused by excessive growth from overfertilizing, by allowing the grass to get too high before mowing, or by incorrect watering.	excessive growth	overfertilizing	excessive growth overfertilizing			
+77	0	dummy	Most of the excitement came from the anticipation of winning a nice prize, all for the sum of one dollar.	excitement	anticipation	excitement anticipation			
+78	0	dummy	Anyone seeking hair reduction by laser treatment should first consult with a dermatologist, says Moore.	hair reduction	laser treatment	hair reduction laser treatment			
+82	1	dummy	Yoga is fantastic for increased flexibility, which is great for cross-training with all the other programs we offer.	Yoga	increased flexibility	Yoga increased flexibility			
+84	0	dummy	Polar bears and hippos have joined the ranks of species threatened with extinction from climate change, unregulated hunting and other dangers created by humans.	extinction	climate change	extinction climate change			
+85	0	dummy	It is commonly accepted that progress comes from science, debate, inference, logic and reasoning.	progress	science	progress science			
+87	1	dummy	In fact, nobody received a drinking injury the whole weekend.	drinking	injury	drinking injury			
+90	0	dummy	Hand creams counteract dryness from exposure to wind, sun, and detergents.	dryness	exposure	dryness exposure			
+91	0	dummy	In a departure from previous liftoffs, ground and aircraft cameras monitored Discovery for possible damage from falling debris.	damage	debris	damage debris			
+93	0	dummy	Companies face big risk from loss of key employees.	risk	loss	risk loss			
+98	0	dummy	However, some may be able to perform minutes of moderate-intensity exercise two to three hours after breakfast without a high risk of hypoglycemia, despite slightly higher insulin levels after eating.	higher insulin levels	eating	higher insulin levels eating			
+99	0	dummy	The moisturizers' primary function is to keep skin moist, minimize wrinkles from dryness, smoothe and soften skin, and to deliver other ingredients, like sunscreen, that benefit the skin.	wrinkles	dryness	wrinkles dryness			
+101	0	dummy	Inhibition through synaptic depression is unlike the previous forms of inhibition in that it turns on more slowly and thus acts as delayed negative feedback.	Inhibition	synaptic depression	Inhibition synaptic depression			
+103	0	dummy	However, these animals are found in the intertidal zone, inside tide pools, where salinity can increase due to evaporation from exposure to intense sunshine, or decrease from heavy rainfall or fresh water runoffs.	evaporation	exposure	evaporation exposure			
+104	0	dummy	There were the years of constant fatigue and shortness of breath, the heart attack at age 11, the collapse from exhaustion on her high school graduation night.	collapse	exhaustion	collapse exhaustion			
+107	0	dummy	This program will be an effective step to mitigate damage from hurricanes - but let us not forget this is a retroactive measure.	damage	hurricanes	damage hurricanes			
+109	0	dummy	Scientific progress comes from breakthroughs and breakthroughs by their very nature are unpredictable and surprising in their impact.	Scientific progress	breakthroughs	Scientific progress breakthroughs			
+110	0	dummy	Declines of great gray owls in California may be due to habitat degradation from logging, grazing, and development.	habitat degradation	logging	habitat degradation logging			
+112	0	dummy	Parents also experience anxiety from fear of the suffering of their child and worry about an uncertain outcome.	anxiety	fear	anxiety fear			
+116	0	dummy	Villagers live in constant terror of indiscriminate gunfire which fills the nights throughout Chechnya.	terror	indiscriminate gunfire	terror indiscriminate gunfire			
+117	0	dummy	From our point of view, the moral outrage over Manet's painting seems hypocritical, if not utterly inexplicable.	moral outrage	painting	moral outrage painting			
+118	0	dummy	This lamp can cause serious skin burn and eye inflammation from shortwave ultraviolet radiation if outer envelope of the lamp is broken or punctured.	eye inflammation	shortwave ultraviolet radiation	eye inflammation shortwave ultraviolet radiation			
+120	0	dummy	A tear or a crease changes the character of the surface more drastically than a mere deformation from roundness.	deformation	roundness	deformation roundness			
+123	0	dummy	Waves from earthquakes travel at different velocities through different media.	Waves	earthquakes	Waves earthquakes			
+125	0	dummy	Energy expenditure through physical activity is a key component in the prevention and treatment of overweight and obesity.	Energy expenditure	physical activity	Energy expenditure physical activity			
+127	1	dummy	In addition, scientists may have a number of potentially useful targets to prevent and treat this lethal tumour because of the findings that NOXmediated overproduction of hydrogen peroxide is responsible for increased growth and decreased death of cancer cells.	overproduction	growth	overproduction growth			
+129	0	dummy	This can be caused by hepatitis, alcoholic liver disease, liver inflammation from medications, fatty liver, liver tumors, or heart failure.	liver inflammation	medications	liver inflammation medications			
+131	0	dummy	Six glowing disks await activation by the footsteps of desert wanderers.	activation	footsteps	activation footsteps			
+133	0	dummy	Thailand has been bracing itself for a downturn in the wake of the bombs, especially in the tourist sector.	downturn	bombs	downturn bombs			
+135	0	dummy	This prescription drug alleviates panic from claustrophobia and is also very handy for airplane rides and in case of broken-down subway cars or elevators.	panic	claustrophobia	panic claustrophobia			
+138	0	dummy	The studies revealed that skin irritation from soaps, inaccessibility to supplies or sinks, and insufficient time to wash hands between every patient care contact were the main reasons given by healthcare workers for lack of handwashing compliance.	skin irritation	soaps	skin irritation soaps			
+139	0	dummy	Infection starts with manual execution of the binary.	Infection	manual execution	Infection manual execution			
+140	0	dummy	Anthony finds inspiration in a beautiful, enigmatic older woman who teaches him to follow his heart and find happiness through swing dancing.	happiness	swing dancing	happiness swing dancing			

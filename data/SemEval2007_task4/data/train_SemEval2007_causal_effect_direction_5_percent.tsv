@@ -1,0 +1,6 @@
+sentence_source	label	label_notes	sentence
+1	0	dummy	"""The period of <e1>tumor shrinkage</e1> after <e2>radiation therapy</e2> is often long and varied (mean months)."""
+4	0	dummy	"""We continue to see progress toward a world free of the <e1>daily terror</e1> of <e2>antipersonnel land mines</e2>."""
+11	1	dummy	"""<e1>Zinc</e1> is essential for <e2>growth</e2> and cell division."""
+67	1	dummy	"""This understanding is consistent with behavioural studies that have failed to clearly distinguish between people with <e1>drinking</e1> <e2>problems</e2> and others."""
+82	1	dummy	"""<e1>Yoga</e1> is fantastic for <e2>increased flexibility</e2>, which is great for cross-training with all the other programs we offer."""
