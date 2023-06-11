@@ -1,0 +1,2 @@
+train_file	test_file	num_labels	epochs	accuracy
+../data/SemEval2010_task8_all_data/data/train_SemEval2010_direction_1_percent.tsv	../data/SemEval2010_task8_all_data/data/test_SemEval2010_direction.tsv	2	6	0.6371951219512195
