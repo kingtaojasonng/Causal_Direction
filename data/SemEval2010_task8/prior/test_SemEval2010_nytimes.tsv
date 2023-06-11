@@ -1,0 +1,329 @@
+sentence_source	label	label_notes	sentence	e1	e2	e1_e2	count_e1	count_e2	count_e1_e2
+8005	0	dummy	Avian influenza is an infectious disease of birds caused by type A strains of the influenza virus.	influenza	virus	influenza virus	"13,000"	"130,000"	"7,220"
+8027	0	dummy	"The same effect is achieved the traditional way, with a team of workers like Keebler elves."	effect	way	effect way	"923,000"	"17,000,000"	"438,000"
+8031	1	dummy	"Of the hundreds of strains of avian influenza A viruses, only four have caused human infections: H5N1, H7N3, H7N7, and H9N2."	viruses	infections	viruses infections	"136,000"	"212,000"	"36,500"
+8041	1	dummy	The subject of imply is the source of an implication while the subject of infer is the recipient of an implication.	subject	implication	subject implication	"304,000"	"78,200"	"16,400"
+8043	1	dummy	The treaty establishes a double majority rule for Council decisions.	treaty	rule	treaty rule	"63,200"	"648,000"	"29,200"
+8055	1	dummy	"In South Africa, which has one of the best police to public ratios on the continent, the share of murders that result in a conviction is about 18%, compared to 56% in the US and 61% in the UK."	murders	conviction	murders conviction	"1,520,000"	"455,000"	"224,000"
+8058	1	dummy	Traffic vibrations on the street outside had caused the movement of the light.	vibrations	movement	vibrations movement	"18,100"	"334,000"	"3,350"
+8073	0	dummy	"The slide, which was triggered by an avalanche-control crew, damaged one home and blocked the road for most of the day."	slide	crew	slide crew	"281,000"	"255,000"	"17,900"
+8083	1	dummy	Muscle fatigue is the number one cause of arm muscle pain.	fatigue	pain	fatigue pain	"40,900"	"282,000"	"6,980"
+8105	0	dummy	It spilled more than 53000 gallons of crude oil into the surrounding marshes one of the bigger spills caused by the hurricane.	spills	hurricane	spills hurricane	"41,800"	"66,200"	"3,230"
+8107	0	dummy	The diseases are caused by gene mutations on the X chromosome.	diseases	gene mutations	diseases gene mutations	"391,000"	"7,290"	"2,450"
+8108	1	dummy	"The pretexts offered were laughable, and the response caused scarcely a ripple on the flood of commentary on Washington's noble efforts to spread democracy."	response	ripple	response ripple	"289,000"	"16,900"	"4,050"
+8116	0	dummy	"Lisa took great joy from laughing, volunteering at school, taking pictures, chatting, the Twins and Vikings, playing softball and volleyball, and time at Lake Vermilion."	joy	laughing	joy laughing	"367,000"	"123,000"	"23,400"
+8118	1	dummy	The receiver was outputting the same tone to my Deva 5.	receiver	tone	receiver tone	"81,600"	"127,000"	"4,100"
+8159	1	dummy	"The presentation uses animation to show how germs and microbes cause sickness, and outlines simple preventive measures."	microbes	sickness	microbes sickness	"6,090"	"20,300"	349
+8175	0	dummy	"As a result, pollution from cars is causing serious health problems for Americans."	pollution	cars	pollution cars	"162,000"	"994,000"	"36,000"
+8191	1	dummy	"Rain caused cancellation of the event in 1877, so enforcement of the new law had to wait until 1878."	rain	cancellation	rain cancellation	"189,000"	"32,500"	"9,910"
+8204	0	dummy	His trademark steam-engine puffing is revealed as a sound made by a viper spitting venom at his prey before swallowing her whole.	sound	viper	sound viper	"460,000"	"2,880"	"1,080"
+8219	0	dummy	The deadly train crash was caused by terrorist attack.	crash	attack	crash attack	"253,000"	"2,570,000"	"61,900"
+8234	0	dummy	All the decking on the ramps need to be replaced (for the second time) because of the damage caused by the misuse of the facility.	damage	misuse	damage misuse	"236,000"	"21,600"	"4,070"
+8236	0	dummy	These types of scripts help visually impaired individuals to get more enjoyment from programming because the action on-screen is described for them.	enjoyment	programming	enjoyment programming	"17,700"	"61,300"	"9,230"
+8239	1	dummy	"Seasonal and nocturnal migrations cause sleep deprivation in diurnal Swainson's thrush, Catharus ustulatus."	migrations	deprivation	migrations deprivation	"38,000"	"29,100"	"1,290"
+8240	1	dummy	"The aircraft was written off in the accident due to the severe impact caused by the KLM aircraft, and the resulting fire."	accident	impact	accident impact	"263,000"	"348,000"	"27,500"
+8253	1	dummy	"The airstrike also resulted in several secondary explosions, leading Marines at the site to suspect that the house may have contained homemade bombs."	airstrike	explosions	airstrike explosions	"32,700"	"99,200"	"7,200"
+8257	0	dummy	The third conflict has been caused by the highly polluted wastewater from the industrial park around the town of Kemalpasha.	conflict	wastewater	conflict wastewater	"205,000"	"3,980"	471
+8265	0	dummy	The Fujita Scale is used to rate the intensity of a tornado by examining the damage caused by the tornado after it has passed over a man-made structure.	damage	tornado	damage tornado	"226,000"	"95,100"	"8,720"
+8288	0	dummy	This is one of the more common causes of hair loss caused by stress and when you are losing hair because of this your hair stops growing and lies dormant.	hair loss	stress	hair loss stress	"86,300"	"135,000"	"5,900"
+8312	0	dummy	The colors of the rainbow are caused by the dispersion of light as it passes through a prism.	colors	dispersion	colors dispersion	"388,000"	"18,200"	"3,390"
+8334	0	dummy	"I won't tell you how much music means now, in these times, when you are battling depression from unemployment."	depression	unemployment	depression unemployment	"98,900"	"94,900"	"18,100"
+8357	1	dummy	"The collision resulted in two more crashes in the intersection, including a Central Concrete truck that was about to turn left onto College Ave."	collision	crashes	collision crashes	"48,700"	"175,000"	"11,400"
+8361	0	dummy	A good neck support pillow can be used while you are sleeping to remedy the neck pain which has been caused by the stresses and strains of your daily routine.	pain	strains	pain strains	"280,000"	"72,700"	"11,700"
+8373	0	dummy	The damage caused by a bullet depends on the amount of energy which it transfers to the tissues.	damage	bullet	damage bullet	"226,000"	"76,100"	"11,200"
+8377	1	dummy	Neuralgia (TN) is the most common cause of chronic sinusitis headache.	neuralgia	headache	neuralgia headache	756	"36,500"	109
+8382	0	dummy	The distribution of the damage caused by the earthquake in Valdivia in relation to the form of the terrane.	damage	earthquake	damage earthquake	"226,000"	"41,400"	"10,900"
+8402	0	dummy	"The misinterpretation has been caused by the Italian word for vacuum tubes, which is valvole (or tubi a vuoto)."	misinterpretation	word	misinterpretation word	"15,200"	"1,130,000"	"6,230"
+8403	0	dummy	The current Iraqi government is seeking financial compensation from Israel for the damage caused by the bombing of the Osirak nuclear reactor in 1981.	damage	bombing	damage bombing	"226,000"	"193,000"	"31,600"
+8404	0	dummy	"The sheer scale of the death and destruction caused by the 2004 Boxing Day tsunami is impossible to fathom, even five years on."	death	tsunami	death tsunami	"7,560,000"	"17,000"	"4,980"
+8405	0	dummy	As a guitarist I get so much satisfaction from the playing and performing of music.	satisfaction	playing	satisfaction playing	"55,700"	"10,800,000"	"25,800"
+8409	0	dummy	"In this paper, we propose a web-based system for prevention of the confidential information leakage caused by the person who is authorized to access."	leakage	person	leakage person	"4,440"	"1,060,000"	"20,200"
+8417	1	dummy	"Clinically, microcracks cause stress or fragility fractures."	microcracks	stress	microcracks stress	9	"132,000"	8
+8439	0	dummy	"Finally, Slone's fear of AIDS and the mental distress she suffered from this fear were caused by the needle stab."	fear	stab	fear stab	"332,000"	"40,200"	"13,700"
+8455	0	dummy	The suffering caused by the embargo is sometimes reported here as well.	suffering	embargo	suffering embargo	"239,000"	"43,200"	"5,580"
+8471	1	dummy	Even nuclear energy is among the causes of water pollution.	nuclear energy	pollution	nuclear energy pollution	"39,300"	"81,000"	"8,790"
+8473	0	dummy	Sorace was unaware that her anger was caused by the abuse.	anger	abuse	anger abuse	"170,000"	"359,000"	"16,300"
+8476	1	dummy	"As people discovered that debt and overconsumption cause stress to families, the planet, and each of us, many turned instead to friends."	debt	stress	debt stress	"173,000"	"132,000"	"11,900"
+8486	1	dummy	"The drone strike that resulted in the death of Pakistan's most wanted terrorist is believed to be a result of deliberately planted false intelligence, sources in South Waziristan have confirmed."	strike	death	strike death	"275,000"	"7,560,000"	"177,000"
+8489	0	dummy	The idea of Roman expansion into North Africa started with the fear and jealousy caused by the great economic power of Carthage.	fear	power	fear power	"347,000"	"2,010,000"	"121,000"
+8493	0	dummy	"Tides are caused by the gravitational pull of the moon and sun, and the rotation of the Earth."	tides	gravitational pull	tides gravitational pull	"55,900"	"2,590"	136
+8494	0	dummy	The dramatic streaks we see in the sky are caused by particles that incinerate before they hit the ground.	streaks	particles	streaks particles	"54,300"	"30,400"	"1,020"
+8498	1	dummy	The dust from the extinguishers set off the alarm.	dust	alarm	dust alarm	"77,600"	"85,400"	"3,680"
+8500	1	dummy	The drug has a low half-life that makes it ideal for killing of the susceptible bacteria responsible for sleeping sickness.	bacteria	sickness	bacteria sickness	"17,800"	"20,300"	"1,200"
+8503	0	dummy	"The pain from an ulcer is usually more severe than pain from indigestion, often gnawing in nature, it sometimes goes through to the back."	pain	indigestion	pain indigestion	"280,000"	"4,960"	937
+8509	0	dummy	The kids get great joy from eating the tomatoes right off the vine.	joy	eating	joy eating	"388,000"	"273,000"	"28,500"
+8512	1	dummy	"Stroke is one of the leading causes of death, long-term disability, and hospital admission in the industrialized world."	stroke	death	stroke death	"208,000"	"7,350,000"	"121,000"
+8520	0	dummy	"I still shiver as I remember trying to page through economics texts by the flicker from candles while clad in overcoat, scarf, and little knitted gloves with the fingertips cut off, in the 4 p.m."	flicker	candles	flicker candles	"11,200"	"51,200"	"1,570"
+8521	0	dummy	The worst pain of all was caused by the torment to her head which was like the pain of thorns pressing into her.	pain	torment	pain torment	"194,000"	"22,200"	"1,740"
+8523	0	dummy	"Overall, discomfort from braces is typically short in duration and easily managed."	discomfort	braces	discomfort braces	"24,500"	"30,600"	544
+8534	1	dummy	"The distraction caused by the students, coupled with limited vision down the track, caused the incident to occur."	distraction	incident	distraction incident	"79,700"	"190,000"	"6,530"
+8535	0	dummy	Immediately a soft glow appeared on her lovely face as the light was radiating from her soft winged friend.	light	friend	light friend	"1,050,000"	"28,100,000"	"866,000"
+8536	1	dummy	"Four of the entrapments resulted in suffocation: a 7-month-old in Gouverneur, N.Y.; a 7-month-old in New Iberia, La.; a 6-month-old in Summersville, W.Va.; and a 9-month-old in Bronx, N.Y."	entrapments	suffocation	entrapments suffocation	142	"18,800"	37
+8542	1	dummy	Storms and earthquakes lead to the second-highest losses in insurance history.	storms	losses	storms losses	"242,000"	"560,000"	"42,500"
+8556	1	dummy	Cobalt metal fume and dust cause irritation of the nose and throat.	fume	irritation	fume irritation	"12,900"	"38,500"	594
+8591	0	dummy	Amateur video has been posted online that shows some of the devastation caused by the tsunami waves.	devastation	waves	devastation waves	"94,900"	"271,000"	"16,400"
+8596	1	dummy	Cancer is the abnormal growth of cells that causes illness in the body.	cancer	illness	cancer illness	"189,000"	"105,000"	"24,300"
+8602	0	dummy	The two trains caught fire after the collision and were burned.	fire	collision	fire collision	"1,340,000"	"46,600"	"19,800"
+8603	0	dummy	Seniors get much joy from animals.	joy	animals	joy animals	"388,000"	"209,000"	"41,300"
+8608	0	dummy	I get tons of satisfaction and joy from watching the little fur ball become the hunter it was bred to be.	satisfaction	watching	satisfaction watching	"55,700"	"806,000"	"16,800"
+8621	0	dummy	The pollution was caused by the shipwreck.	pollution	shipwreck	pollution shipwreck	"162,000"	"12,800"	525
+8623	1	dummy	"Inhalation of excessive concentrations of vapor, fumes, and/or dust produces irritation of the upper respiratory trad."	inhalation	irritation	inhalation irritation	"12,800"	"38,500"	202
+8633	1	dummy	Air pollution causes smog and respiratory problems when breathed.	pollution	smog	pollution smog	"162,000"	"10,700"	"3,490"
+8641	0	dummy	"Until now, no paper has been presented on predicting the interior noise caused by a powertrain on the basis of hybrid TPA with a real vehicle."	noise	powertrain	noise powertrain	"65,900"	"1,590"	291
+8648	0	dummy	"World AIDS Day, observed December 1 each year, is dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection."	pandemic	infection	pandemic infection	"385,000"	"212,000"	"30,600"
+8655	1	dummy	Wind and water cause weathering and erosion to change the shape of the earth.	wind	weathering	wind weathering	"193,000"	"12,600"	370
+8659	1	dummy	"The mentality is since oil and bacteria cause acne, I'll just remove the oil off my face and kill the bacteria."	bacteria	acne	bacteria acne	"17,200"	"3,830"	337
+8681	0	dummy	In the last couple of years I have been working with my fear from darkness.	fear	darkness	fear darkness	"336,000"	"109,000"	"63,300"
+8690	0	dummy	A large tsunami triggered by the earthquake spread outward from off the Sumatran coast.	tsunami	earthquake	tsunami earthquake	"12,400"	"41,400"	"4,370"
+8705	1	dummy	Lopez and Espinoza took plea agreements that resulted in diversion -- the completion of requirements such as community service and a fine during a probation period that ended with a clean slate and no conviction.	agreements	diversion	agreements diversion	"232,000"	"53,100"	"7,970"
+8708	0	dummy	Cutler ended up with a bleeding stomach ulcer caused by the stress and hard work supervising their tours twenty-four hours a day.	ulcer	stress	ulcer stress	"5,010"	"142,000"	734
+8720	0	dummy	Recessions are caused by an excess demand for money combined with rational downward price rigidity.	recessions	excess demand	recessions excess demand	"74,800"	"17,000"	"3,380"
+8731	0	dummy	"In the present recession, which has been triggered by a collapse in land prices, land-value taxation would reverse the collapse - not by re-inflating a temporary speculative bubble, but by inducing investment in infrastructure that permanently enhances the utility of the land."	recession	collapse	recession collapse	"67,200"	"145,000"	"12,700"
+8736	1	dummy	Lesions in the internal capsule caused proportional leg weakness.	lesions	leg weakness	lesions leg weakness	"4,360"	"15,000"	39
+8739	0	dummy	"Hiroshima has rejected the demands of some citizens and victims groups that the newly renovated museum include an exhibition on Japan's aggressive role in World War II, alongside the gruesome displays of the suffering and devastation caused by the bomb."	suffering	bomb	suffering bomb	"233,000"	"158,000"	"28,000"
+8740	1	dummy	The death caused the cancellation of the band's plans for overseas tours.	death	cancellation	death cancellation	"6,760,000"	"30,500"	"12,300"
+8745	0	dummy	"Many problems have ensued from the new policy, most of them unforeseen and based on ethnic differences."	problems	policy	problems policy	"14,300,000"	"25,600,000"	"8,980,000"
+8748	1	dummy	"The bacteria is the cause of pneumonia, including common uses, side effects, interactions and risks."	bacteria	pneumonia	bacteria pneumonia	"17,200"	"15,800"	"1,280"
+8752	1	dummy	"The incoming water caused a stain on the wall that, through the lens of pareidolia, looked like a bearded man with a big afro hairdo."	incoming water	stain	incoming water stain	"6,660"	"38,600"	283
+8754	0	dummy	"The bleeding was caused by an injury, such as a fall or something hitting your face."	bleeding	injury	bleeding injury	"35,700"	"236,000"	"5,940"
+8764	1	dummy	Merlin Lindeman (animal sciences) then pooled their expertise to show that the caterpillars caused the disease.	caterpillars	disease	caterpillars disease	"14,400"	"298,000"	"1,600"
+8774	0	dummy	They made the effect even more dramatic by lighting the talent with a light placed on the floor and focused on the face.	effect	light	effect light	"596,000"	"680,000"	"134,000"
+8775	0	dummy	The thin F ring on the left of the image shows the perturbations caused by the moon Prometheus.	perturbations	moon	perturbations moon	"2,550"	"176,000"	295
+8781	1	dummy	"A recent book by Carmen M. Reinhart and Kenneth S. Rogoff, two economists, found that over the last century the typical crisis had caused the jobless rate in the country where it occurred to rise for almost five years."	crisis	jobless rate	crisis jobless rate	"354,000"	"29,200"	"10,400"
+8812	0	dummy	We have recently determined the corruption was (ironically) triggered by the SMART utilities.	corruption	utilities	corruption utilities	"112,000"	"114,000"	"5,900"
+8829	1	dummy	The life-like creatures caused a real scare on the set when a 44-foot spinosaurus malfunctioned and began slamming its head against a prop plane.	creatures	scare	creatures scare	"57,700"	"107,000"	"5,390"
+8841	1	dummy	"The ban caused a widespread debate, largely on the Internet, in which rabbis and scholars from around the world participated."	ban	debate	ban debate	"206,000"	"285,000"	"57,800"
+8851	0	dummy	"He preserved the working ranches of the west, while achieving an expansion of the ranch's value through development and management of the recreational ecosystem within the ranch."	expansion	development	expansion development	"84,700"	"1,380,000"	"31,300"
+8855	0	dummy	A really enjoyable drinking experience ensued from this red blend from this boutique winery from the Cowra area of Central Western NSW.	experience	blend	experience blend	"648,000"	"84,200"	"15,600"
+8857	0	dummy	"The spill was caused by the Iraqi fuel tanker Zainab, suspected of smuggling around 1,300 tonnes of fuel oil from Iraq, as it ran into trouble on its way to a holding area in international waters."	spill	tanker	spill tanker	"45,200"	"17,400"	"2,650"
+8858	1	dummy	Use outdoor where sunlight and glare cause eye strain and fatigue.	sunlight	fatigue	sunlight fatigue	"27,700"	"25,500"	497
+8859	0	dummy	"Police investigators later found brake discs on the car were broken, though experts from the Italian car manufacturers insist the damage was caused by the collision and the car had been in perfect condition."	damage	collision	damage collision	"240,000"	"46,400"	"13,000"
+8875	1	dummy	These wind turbines generate electricity from naturally occurring wind.	turbines	electricity	turbines electricity	"9,470"	"202,000"	"4,660"
+8879	0	dummy	"Aware of the suffering caused by exploitation, social injustice, stealing, and oppression, I am committed to cultivate loving kindness and learn ways to work for the well-being of people, animals, plants, and minerals."	suffering	exploitation	suffering exploitation	"233,000"	"65,200"	"4,970"
+8885	0	dummy	Witness the gangs in Los Angeles who stopped killing one another for a time after the riots triggered by the Rodney King bashing verdict.	riots	verdict	riots verdict	"81,900"	"56,500"	"8,170"
+8889	0	dummy	"From banishing cold and flu germs to preventing foodborne illnesses, frequent hand-washing is one of the smartest preventive habits you can adopt."	cold	germs	cold germs	"241,000"	"14,000"	"3,880"
+8914	0	dummy	Human growth hormone is described by some as the key to slowing the aging process.	growth	hormone	growth hormone	"214,000"	"18,800"	"8,090"
+8937	0	dummy	"The election was caused by the appointment of Donald Sumner, formerly Conservative MP for Orpington, to be a county court judge."	election	appointment	election appointment	"763,000"	"203,000"	"35,900"
+8940	0	dummy	"This was our first day back volunteering there but he wasn't feeling good, had a fever from immunizations."	fever	immunizations	fever immunizations	"77,100"	"8,370"	"1,260"
+8949	1	dummy	"I found that the wind swirling around from the back, in between the front seats, caused a draft on the driver and passenger's necks."	wind	draft	wind draft	"193,000"	"197,000"	"11,200"
+8953	0	dummy	"The acidity is caused by the gradual buildup of carbon dioxide (CO2) in the atmosphere, dissolving into the oceans."	acidity	carbon dioxide	acidity carbon dioxide	"4,940"	"15,500"	247
+8954	1	dummy	The European colonial expansion to the Americas resulted in massive population movements from the Old World to the New World.	expansion	movements	expansion movements	"81,900"	"351,000"	"26,600"
+8972	0	dummy	"The straight, blue ion tail is caused by the solar wind and the curved dust tail is caused by solar radiation pressure."	tail	solar wind	tail solar wind	"58,100"	"22,800"	734
+8974	0	dummy	"Infectious diseases or communicable diseases are caused by bacteria, viruses, and parasites."	infectious diseases	parasites	infectious diseases parasites	"35,400"	"10,500"	371
+8987	0	dummy	"On this basis, the vibronically coupled CD bands of lutein diacetate are attributed to an excitonic interaction arose from the twisted nematic layers."	interaction	layers	interaction layers	"59,200"	"82,900"	"2,170"
+8989	0	dummy	"The pension crisis has been caused by the escalating cost of funding copper bottomed final salary pension schemes still provided, unlike most companies, by councils and other public sector employers such as Transport for London."	crisis	cost	crisis cost	"354,000"	"1,820,000"	"94,900"
+8992	0	dummy	"A third of the injuries are caused by illegally obtained fireworks, and burns account for half the injuries."	injuries	fireworks	injuries fireworks	"163,000"	"29,000"	"4,300"
+9005	0	dummy	"In addition to the threat from cable television, analog terrestrial television is now also subject to competition from satellite television and distribution of video and film content over the Internet."	threat	television	threat television	"248,000"	"4,450,000"	"85,300"
+9012	1	dummy	Alcohol and drugs directly cause suicide by significantly diminishing the reasoning of the person at the time of the suicide.	alcohol	suicide	alcohol suicide	"110,000"	"250,000"	"7,260"
+9014	0	dummy	"I write as both a doctor/Medical Director of the ME Association and as someone who suffers from the illness, which was triggered by an attack of chickenpox."	illness	chickenpox	illness chickenpox	"109,000"	"2,000"	590
+9015	0	dummy	I know plenty of people with oily skin and wrinkles from the sun and they're in their 30s.	wrinkles	sun	wrinkles sun	"6,450"	"311,000"	"13,900"
+9018	1	dummy	"Windmills kill birds and bats, while soil disturbances required to build solar and wind arrays lead to soil erosion."	disturbances	erosion	disturbances erosion	"28,200"	"47,500"	350
+9025	0	dummy	The mosaicism observed in the proband was derived from a postzygotic somatic mutation of the normal maternal y chromosome.	mosaicism	mutation	mosaicism mutation	39	"15,200"	30
+9055	0	dummy	The deleveraging triggered by the crisis implies that countries that hoarded reserves have been reaping the benefits.	deleveraging	crisis	deleveraging crisis	776	"354,000"	430
+9057	0	dummy	"Headaches, dizziness, balance problems, and neck and back pain were caused by the work injury."	dizziness	injury	dizziness injury	"10,800"	"236,000"	"2,250"
+9062	1	dummy	Fainting is a common cause of unconsciousness and may occur when the casualty's heart rate is too slow to maintain sufficient blood pressure for the brain.	fainting	unconsciousness	fainting unconsciousness	"28,000"	"29,900"	992
+9068	1	dummy	"Much like the virus that caused the 1918 flu pandemic, this new H1N1 flu virus affects young adults and school children in greater numbers."	virus	pandemic	virus pandemic	"123,000"	"385,000"	"154,000"
+9073	0	dummy	"Heat burns, or thermal burns, are caused by steam, fire, hot objects or hot liquids."	burns	liquids	burns liquids	"116,000"	"67,300"	"10,200"
+9081	1	dummy	"Methadone gives a buzz too, but it's the most effective way to reel in heroin addicts into treatment and real life."	methadone	buzz	methadone buzz	"2,420"	"41,300"	77
+9083	0	dummy	"The flooding, caused by a cyclone, came on the heels of a prolonged drought, which destroyed 60 percent of Fiji's sugar cane crop last year and cost more than 50 million Fijian dollars (25 million US) in relief and rehabilitation."	flooding	cyclone	flooding cyclone	"113,000"	"7,390"	"2,670"
+9087	1	dummy	Fog caused delays at the Charlotte Douglas International Airport Monday morning.	fog	delays	fog delays	"44,100"	"236,000"	"11,000"
+9110	1	dummy	The accompanying inflammatory process had caused the stricture of the mid-CBD.	process	stricture	process stricture	"2,710,000"	"6,840"	"1,450"
+9111	0	dummy	One of the most dreaded types of scars are contracture scars from burns.	scars	burns	scars burns	"92,700"	"116,000"	"71,500"
+9119	1	dummy	Dehydration is one of the lead causes of death in the world due to dirty water and felt this should be emphasized in global charity documentation.	dehydration	death	dehydration death	"7,150"	"6,760,000"	"3,050"
+9128	1	dummy	These toxins cause sickness or an unpleasant odor.	toxins	odor	toxins odor	"9,940"	"15,400"	"1,410"
+9131	1	dummy	Accident causes delays on BW Parkway.	accident	delays	accident delays	"226,000"	"236,000"	"35,700"
+9136	0	dummy	Children stand near houses in Padang that caught fire after the earthquake.	fire	earthquake	fire earthquake	"1,130,000"	"41,400"	"35,100"
+9139	0	dummy	Individual donors make a significant difference in addressing the suffering caused by the economic crisis.	suffering	crisis	suffering crisis	"233,000"	"336,000"	"42,700"
+9146	0	dummy	This is a yeast infection of the esophagus caused by the same fungus that causes vaginal yeast infections.	infection	fungus	infection fungus	"212,000"	"16,600"	"9,450"
+9147	0	dummy	Tonsillitis is caused by infection by a variety of different micro-organisms.	tonsillitis	micro-organisms	tonsillitis micro-organisms	291	"1,490"	16
+9148	0	dummy	"Hiccups are caused by a spasm contracting the diaphragm, a muscle essential in human respiration."	hiccups	spasm	hiccups spasm	"5,250"	"10,600"	48
+9161	1	dummy	Landslides caused the majority of the deaths.	landslides	deaths	landslides deaths	"23,900"	"7,530,000"	"6,460"
+9163	1	dummy	"Rain and wind cause power outage in Los Angeles 11:24, October 15, 2009."	rain	power outage	rain power outage	"167,000"	"5,590"	935
+9167	0	dummy	He took a shower after using hair cream to avoid skin irritation from the chemicals in the product.	irritation	chemicals	irritation chemicals	"31,700"	"131,000"	"3,000"
+9168	0	dummy	The humiliation comes from authorities and people making him loose faith in humanity.	humiliation	people	humiliation people	"45,900"	"16,700,000"	"14,600"
+9171	1	dummy	"The visit caused a sensation on the Whangaparaoa Peninsula with people reporting the orca and rushing out to photograph and film them, from a safe distance."	visit	sensation	visit sensation	"1,410,000"	"56,500"	"161,000"
+9172	1	dummy	The constant polarization voltage between the two electrodes instigates the electrochemical reaction of the chlorine compounds on the working electrode.	voltage	reaction	voltage reaction	"7,530"	"195,000"	"1,430"
+9179	1	dummy	Dust or vapor cause burns or irritation of the eyes with swelling.	vapor	swelling	vapor swelling	"8,310"	"17,100"	164
+9181	0	dummy	Increased reproductive toxicity of landfill leachate after degradation was caused by nitrite.	reproductive toxicity	nitrite	reproductive toxicity nitrite	"3,110"	"28,500"	644
+9190	0	dummy	A controversy arose from an equivocal assignment of the metastable 150-meV vibrational peak.	controversy	assignment	controversy assignment	"332,000"	"121,000"	"11,900"
+9213	1	dummy	The alleged abuse resulted in bruises and swelling of the brain.	abuse	swelling	abuse swelling	"314,000"	"15,900"	"2,690"
+9221	0	dummy	Picture of a woodcut portraying the harm caused by the quake.	harm	quake	harm quake	"102,000"	"16,200"	"1,550"
+9224	1	dummy	"Bacterial infections of the ear result in malodor, excessive exudation (drainage of pus-like material), and ulceration."	infections	malodor	infections malodor	"191,000"	42	62
+9226	1	dummy	"On the one hand, a small notorious set of bacteria, fungi, parasites, protozoa, and viruses cause disease, as discussed in the two units of the book."	fungi	disease	fungi disease	"16,800"	"298,000"	"4,830"
+9228	1	dummy	"The clashes resulted in a great deal of bloodshed, including the deaths of at least 1200 civilians and 180 Pakistani soldiers."	clashes	deaths	clashes deaths	"103,000"	"6,470,000"	"40,000"
+9234	0	dummy	The variations are caused by stratospheric winds and the chemical production and destruction of ozone.	variations	stratospheric winds	variations stratospheric winds	"98,100"	"1,320"	411
+9259	0	dummy	Much of the bloodshed was caused by the growth of gangs.	bloodshed	growth	bloodshed growth	"16,600"	"193,000"	"1,860"
+9280	0	dummy	"The anxiety caused by the accident, which appears to show no sign of diminishing, and its negative impact on the living conditions in the affected areas, may be the principal reason for the increase in poor reported health."	anxiety	accident	anxiety accident	"85,400"	"186,000"	"11,700"
+9289	0	dummy	The energy is going away from the source at the group velocity Cg.	energy	source	energy source	"268,000"	"454,000"	"76,000"
+9309	0	dummy	This mild and relatively common form of acne is caused by cosmetics.	acne	cosmetics	acne cosmetics	"3,830"	"25,900"	"1,150"
+9311	0	dummy	The light was radiating from the face of Jesus Christ.	light	face	light face	"680,000"	"2,080,000"	"147,000"
+9319	0	dummy	The output noise was caused by the biasing resistors and the shot noises of the base currents of Q1 and Q4.	noise	resistors	noise resistors	"76,400"	537	112
+9323	0	dummy	The only light was from two turrets of bulletproof glass.	light	turrets	light turrets	"680,000"	"5,300"	"2,220"
+9328	1	dummy	The widespread opinion that both protein and phosphorus cause calcium loss is examined.	phosphorus	calcium loss	phosphorus calcium loss	"2,160"	"1,060"	56
+9342	1	dummy	"Ambient vanadium pentoxide dust produces irritation of the eyes, nose and throat."	dust	irritation	dust irritation	"61,200"	"30,300"	"1,210"
+9352	1	dummy	The heat and pressure cause metamorphism to occur.	heat	metamorphism	heat metamorphism	"254,000"	6	81
+9357	0	dummy	Dogs develop a fever from stress and/or pain such as in a severe flea infestation.	fever	stress	fever stress	"77,100"	"142,000"	"4,170"
+9366	1	dummy	The weight of the concrete on the soft materials caused a second ground collapse on the following Sunday night.	weight	collapse	weight collapse	"133,000"	"145,000"	"14,000"
+9370	0	dummy	Every schoolchild is taught that the monsoons are caused by the change in wind patterns when a large body of warm air rises.	monsoons	change	monsoons change	"5,490"	"18,000,000"	"2,330"
+9372	0	dummy	"Both reached the same basic conclusion, that the ship had been destroyed by a magazine explosion which was triggered by an external blast."	explosion	blast	explosion blast	"153,000"	"82,000"	"21,500"
+9373	1	dummy	"But just think, sadness leads to fear then fear leads to anger."	sadness	fear	sadness fear	"24,800"	"336,000"	"5,970"
+9378	0	dummy	By far the greatest damage has been caused by the illicit use of the hallucinogens.	damage	hallucinogens	damage hallucinogens	"240,000"	"2,840"	286
+9379	1	dummy	"The symptoms of H1N1 flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, fatigue, and possibly vomiting or diarrhea."	flu	chills	flu chills	"35,100"	"33,900"	"3,040"
+9394	0	dummy	"The full amount paid to Aardman for the blaze, which was triggered by an electrical fault, was not disclosed."	blaze	fault	blaze fault	"38,100"	"71,300"	"1,940"
+9403	1	dummy	"Most illnesses, including colds and flu, cause a toxic overload that also increases the stress on the kidneys."	flu	stress	flu stress	"35,100"	"142,000"	"3,440"
+9415	1	dummy	"This case arises from a December 21, 2005 automobile accident that resulted in the death of Larry Haynes."	accident	death	accident death	"188,000"	"6,760,000"	"130,000"
+9427	0	dummy	"Two of my girls had the high fever from vaccines, and our family doctor thought nothing of it."	fever	vaccines	fever vaccines	"77,100"	"98,700"	"10,200"
+9434	0	dummy	"Acne is caused by oily skin and often has black or whiteheads, inflamed sores, and infected sores along with scars."	acne	oily skin	acne oily skin	"3,830"	"1,380"	206
+9438	1	dummy	"Excess oil, dirt and bacteria cause acne."	dirt	acne	dirt acne	"55,100"	"4,030"	726
+9452	1	dummy	The proposed permanent rules establish criteria and procedures for awarding grants to eligible applicants.	rules	criteria	rules criteria	"663,000"	"46,900"	"14,600"
+9464	0	dummy	"The rainbows are caused by the refraction, or bending, of sunlight as it passes through the raindrops."	rainbows	refraction	rainbows refraction	"59,900"	"2,260"	80
+9467	1	dummy	The weekend snow storm caused cancellation of the Tornadoes' scheduled league game.	storm	cancellation	storm cancellation	"181,000"	"30,500"	"2,490"
+9469	0	dummy	"The response to the harm caused by the flood, although institutionally organized, relied mostly on individuals joined in a common purpose rather than on an orchestrated effort by established hand binderies."	harm	flood	harm flood	"102,000"	"109,000"	"9,060"
+9482	1	dummy	Larger batteries provide standby power for telephone exchanges or computer data centers.	batteries	power	batteries power	"71,600"	"1,560,000"	"30,100"
+9489	0	dummy	The uterine contractions are caused by prostaglandins.	contractions	prostaglandins	contractions prostaglandins	"8,290"	0	0
+9490	0	dummy	"Slaanesh enjoys every aspect of experience, deriving pleasure from pain and suffering."	pleasure	suffering	pleasure suffering	"103,000"	"242,000"	"15,600"
+9494	1	dummy	A cigarette set off a smoke alarm.	cigarette	alarm	cigarette alarm	"71,100"	"82,100"	"3,800"
+9508	1	dummy	"Eighty-four percent of the complications resulted in patient deaths, while 16 percent resulted in a serious injury."	complications	deaths	complications deaths	"57,500"	"13,900,000"	"22,300"
+9515	0	dummy	"So solar thermal power generation works essentially the same as generation from fossil fuels except that instead of using steam produced from the combustion of fossil fuels, the steam is produced by the heat collected from sunlight."	steam	combustion	steam combustion	"76,400"	"11,500"	"1,140"
+9519	0	dummy	The shifts are caused by gas flows going up one leg and returning down the other.	shifts	gas flows	shifts gas flows	"239,000"	"26,700"	"6,440"
+9524	1	dummy	"Lesions affecting the medial part of the premotor cortex, the SMA and sparing the precentral gyrus caused a contralateral hemiparesis predominating on the leg but predominating proximally on both leg and arm."	lesions	hemiparesis	lesions hemiparesis	"4,690"	5	1
+9542	1	dummy	"Resulting congestion caused delays of 15-20 minutes to Northeast Corridor, North Jersey Coast Line and Midtown Direct trains."	congestion	delays	congestion delays	"36,200"	"247,000"	"6,520"
+9556	0	dummy	"KHZZ experienced competition from former oldies station KHYL, but both stations ended up giving up the format, with KHZZ turning to oldies."	competition	station	competition station	"208,000"	"386,000"	"33,600"
+9559	0	dummy	A plasma was generated by an electric discharge between electrodes located in the focal plane of the lens and separated by ~ 1 cm from one another.	plasma	discharge	plasma discharge	"8,290"	"67,200"	99
+9573	1	dummy	Several infections cause rash-fever disease that is commonly mistaken for measles.	infections	disease	infections disease	"185,000"	"384,000"	"46,300"
+9576	0	dummy	"The cause for the jump to over 30,000 was the deterioration in the economy triggered by a series of bankruptcies among banks and securities firms."	jump	deterioration	jump deterioration	"135,000"	"77,400"	"3,160"
+9582	1	dummy	"As the compressor on the frig turned on caused a voltage spike on the electrical line, which caused a glitch in the room commander system."	spike	glitch	spike glitch	"39,500"	"28,600"	460
+9589	1	dummy	Stimulation of the posterior horn of the medial meniscus produced a measurable amount of CMAP latency for the semimembranosus muscle.	stimulation	latency	stimulation latency	"51,000"	813	4
+9597	0	dummy	"Saosin shook himself off, coughing from inhaling the smoke, and then stood up in an awkward fashion."	coughing	inhaling	coughing inhaling	"21,700"	"16,300"	784
+9601	0	dummy	"A polio outbreak in Nigeria was caused by the vaccine designed to stop it, leaving at least 69 children paralyzed."	outbreak	vaccine	outbreak vaccine	"138,000"	"108,000"	"21,600"
+9618	1	dummy	The impact of the tire against the pothole caused a slit on the tube that the repairman had to sew three stiches.	impact	slit	impact slit	"390,000"	"10,600"	"1,120"
+9624	1	dummy	"Stress and anxiety trigger panic attacks, however healthy people may experience panic attacks, but they are no that common."	stress	panic attacks	stress panic attacks	"142,000"	"17,100"	"3,020"
+9647	0	dummy	"The drop was caused by the recession and the usual seasonal factors, with fruit and vegetable prices lower in the summer months."	drop	recession	drop recession	"705,000"	"111,000"	"21,900"
+9648	0	dummy	"The pandemic was caused by the virus Yesinia pestis, better known as The Bubonic Black Plague, which infected the flees on the Black rodents."	pandemic	virus	pandemic virus	"592,000"	"132,000"	"170,000"
+9659	1	dummy	Unemployment and poverty cause abuse of children and serious situations such as the breakdown of families where the rights of the child are easily infringe.	unemployment	abuse	unemployment abuse	"105,000"	"313,000"	"8,450"
+9673	0	dummy	"Acne is caused by irritants like fabrics, hair gels and makeup."	acne	irritants	acne irritants	"4,370"	"6,070"	153
+9682	1	dummy	Sadness leads to dissatisfaction with the job.	sadness	dissatisfaction	sadness dissatisfaction	"35,300"	"22,700"	282
+9684	0	dummy	"The word song is used to describe the pattern of regular and predictable sounds made by some species of whales, notably the humpback whale."	sounds	species	sounds species	"496,000"	"148,000"	"25,100"
+9688	1	dummy	By 1945 the French electric system was generating more power than it had before the war.	system	power	system power	"1,310,000"	"1,700,000"	"310,000"
+9689	0	dummy	"That being said, I do love the game and play it all the time but would appreciate a little less frustration from programming and debugging, and sticking strictly with the frustration that comes from hitting bad shots."	frustration	debugging	frustration debugging	"192,000"	"1,160"	101
+9690	0	dummy	You see and hear Hackman's screaming after the dreadful shooting.	screaming	shooting	screaming shooting	"72,100"	"761,000"	"24,300"
+9695	1	dummy	Wind and water erosion is confined to farmlands.	water	erosion	water erosion	"632,000"	"53,500"	"18,100"
+9698	1	dummy	"The human papillomavirus is one of the most common causes of these and most other types of warts, and this is a virus that attacks the skin through direct contact."	papillomavirus	warts	papillomavirus warts	632	"6,430"	191
+9699	0	dummy	The crash has been caused by a meteor.	crash	meteor	crash meteor	"175,000"	"14,600"	"2,630"
+9703	0	dummy	"The man was on his knees, sdiraya neck with the rope and coughing from suffocation."	coughing	suffocation	coughing suffocation	"21,700"	"19,800"	386
+9708	0	dummy	"The South China tigers are verging on the brink on extinction from hunting and deforestation, and these magestic animals are so close to being gone forever."	extinction	deforestation	extinction deforestation	"34,900"	"4,710"	631
+9719	1	dummy	Swine flu is one of the leading causes of respiratory disease in swine throughout the world.	swine flu	disease	swine flu disease	"6,780"	"384,000"	"1,890"
+9720	0	dummy	The environmental and health consequences of the evacuation after the Chernobyl accident.	evacuation	accident	evacuation accident	"70,700"	"250,000"	"11,600"
+9722	0	dummy	The Queen has expressed her shock at the devastation caused by the flooding.	devastation	flooding	devastation flooding	"98,700"	"122,000"	"8,770"
+9725	1	dummy	"The speech caused a conservative combustion on the Internet, but when Wanda visited The Tonight Show a few weeks later to talk about the dinner, she told Jay Leno that she didn't even know about the controversy."	speech	combustion	speech combustion	"313,000"	"11,500"	947
+9727	1	dummy	"The pet was overly sensitive, and thus the ticks and fleas caused rashes and discomfort."	ticks	discomfort	ticks discomfort	"37,500"	"25,700"	599
+9731	1	dummy	"The raid resulted in an immediate regional crisis over the apparent Colombian violation of Ecuadoran sovereignty, with both Ecuador and Venezuela mobilizing military forces."	raid	crisis	raid crisis	"98,800"	"366,000"	"27,000"
+9732	1	dummy	A scheme establishing access to the East Sussex countryside for disabled people draws to a close.	scheme	access	scheme access	"153,000"	"6,350,000"	"29,800"
+9739	0	dummy	"Comedy was employed in a cathartic role against the tension, fear and grief caused by the fighting."	tension	fighting	tension fighting	"141,000"	"1,910,000"	"76,500"
+9740	0	dummy	"Since 1972, when Jewish settler organizations were successful in falsely registering the land with the Israeli Land registrar, the family have suffered the stress and anxiety caused by the constant legal battles involved in fighting for the right to stay in the homes in which many of them were born."	stress	battles	stress battles	"137,000"	"401,000"	"20,900"
+9758	0	dummy	All thirty of the patches sewn into the cloth in 1534 by the Poor Clare nuns to repair the devastation caused by the 1532 fire were removed.	devastation	fire	devastation fire	"98,700"	"1,160,000"	"28,000"
+9769	0	dummy	The storm was generated by an intense cold front moving across drought-affected areas in South Australia and NSW.	storm	cold front	storm cold front	"202,000"	"109,000"	"14,100"
+9780	0	dummy	"Joint problems are caused by osteoarthitis (degenerative joint disease), subluxations, sprains, intervertebral disc."	joint problems	osteoarthitis	joint problems osteoarthitis	"110,000"	"1,390"	228
+9791	1	dummy	"A lice infestation is diagnosed by looking closely through pubic hair for nits, nymphs, or adults."	lice	infestation	lice infestation	"9,240"	"15,200"	111
+9797	0	dummy	"He created and advocated flower power,a strategy in which antiwar demonstrators promoted positive values like peace and love to dramatize their opposition to the destruction and death caused by the war in Vietnam."	destruction	war	destruction war	"177,000"	"4,250,000"	"151,000"
+9812	1	dummy	The accident caused a traffic snarl on the ever busy bridge leading to diversions to other routes.	accident	snarl	accident snarl	"250,000"	"16,500"	"1,260"
+9819	0	dummy	"I've suffered from an injury that has been caused by the negligence of another person, and I've filed an injury claim."	injury	person	injury person	"267,000"	"1,260,000"	"66,700"
+9829	1	dummy	Cells damaged or killed by flu result in the production of interferon which is one of the most potent causes of fever.	interferon	fever	interferon fever	"1,550"	"90,200"	269
+9831	1	dummy	Pressure from shoes and walking cause friction and the body's natural response is to build up the skin to protect it from breaking down.	pressure	friction	pressure friction	"309,000"	"30,700"	"4,740"
+9848	0	dummy	"A mother carries her children inside a public school used as an evacuation center for victims of the floods caused by the continuous rains of Typhoon Ketsana, in the town of Tanay, Rizal east of Manila September 28, 2009."	floods	rains	floods rains	"117,000"	"264,000"	"29,700"
+9861	0	dummy	The electron beam is generated by an explosive emission cathode.	beam	emission	beam emission	"36,500"	"54,000"	840
+9868	0	dummy	Three people had been killed in a fire after the quake and hundreds of people were injured.	fire	quake	fire quake	"1,160,000"	"18,700"	"6,680"
+9876	0	dummy	"Some have argued that the money the pirates demand is very little compared to the devastation that has been caused by the toxic waste, which includes nuclear waste."	devastation	waste	devastation waste	"98,700"	"151,000"	"3,840"
+9899	0	dummy	The paper reported a 'palpable sense of disappointment' from the audience.	disappointment	audience	disappointment audience	"159,000"	"291,000"	"32,000"
+9901	0	dummy	Scientists warn that the damage caused by the fishing industry is irreparable.	damage	industry	damage industry	"222,000"	"1,990,000"	"62,600"
+9902	1	dummy	"These old power plants produce pollution that causes smog, acid rain and global warming, and they generate radioactive wastes and other toxic pollutants."	pollution	warming	pollution warming	"88,600"	"55,300"	"8,580"
+9919	0	dummy	"Fetal alcohol spectrum disorders, or FASDs, are caused by drinking alcohol during pregnancy."	disorders	drinking	disorders drinking	"55,100"	"318,000"	"8,650"
+9956	0	dummy	Little Irish girl Becky called a demolition company and asked if they would knock her school down.	demolition	company	demolition company	"29,600"	"42,400,000"	"26,500"
+9965	0	dummy	Adam Smith's first measure of fame was gained from a series of public lectures on rhetoric and belles lettres delivered in Edinburgh from 1748 to 1751.	measure	lectures	measure lectures	"510,000"	"90,800"	"13,300"
+9967	1	dummy	The closure caused a backup on the freeway for several miles northbound as cars were detoured to the Lost Hills Road exit and over to Agoura Road to head south on Las Virgenes.	closure	backup	closure backup	"26,300"	"61,900"	"5,920"
+9974	0	dummy	The devastation caused by the earthquake-generated tsunami is seen on the south coast of Western Samoa.	devastation	tsunami	devastation tsunami	"98,700"	"19,300"	"2,600"
+9975	0	dummy	Scars from burns happen when the entire depth of the skin is destroyed by heat.	scars	burns	scars burns	"96,300"	"178,000"	"74,000"
+9979	1	dummy	"To that end, the coalition has established some local recreational activities, including Laser Tag and paintball."	coalition	activities	coalition activities	"170,000"	"260,000"	"22,900"
+9985	0	dummy	The march's goal is to raise awareness of the crisis caused by the Israeli blockade and bring much needed humanitarian relief.	crisis	blockade	crisis blockade	"348,000"	"37,200"	"5,710"
+10003	0	dummy	"The truck carried homemade weapons, and the blast was caused by the mishandling of weapons."	blast	mishandling	blast mishandling	"85,100"	"7,550"	534
+10009	1	dummy	Bread shortages and mounting poverty cause riots in nearby Paris.	shortages	riots	shortages riots	"134,000"	"86,300"	"14,200"
+10012	0	dummy	Thursday afternoon the staff from the University of Wisconsin-Madison near Lake Mendota felt a shake and heard a noise like a boom which was triggered by an ice quake.	noise	quake	noise quake	"163,000"	"18,700"	"1,550"
+10038	0	dummy	Chronic coughing from smoking increases the risk of developing a hernia.	coughing	smoking	coughing smoking	"21,700"	"183,000"	"2,380"
+10040	0	dummy	The delays are caused by local governments trying to wring more money out of the feder.	delays	governments	delays governments	"247,000"	"2,570,000"	"146,000"
+10041	0	dummy	Information about the foodborne illness caused by salmonella bacteria.	illness	bacteria	illness bacteria	"102,000"	"17,100"	"6,260"
+10047	1	dummy	War and rural poverty cause mass migration of people and often simultaneous growth of informal development.	poverty	migration	poverty migration	"114,000"	"73,700"	"4,280"
+10054	0	dummy	"I'm close to taking a writing break myself - to mention the frustration from rejection, but I got the Rosetta Stone Spanish CD;s a couple of years ago, and they've taken a back-seat in the priority list - not much time with work and the hubby and kids."	frustration	rejection	frustration rejection	"223,000"	"113,000"	"19,200"
+10059	0	dummy	"When the force was generated via the joystick, the reproduced force matched the original force much more accurately."	force	joystick	force joystick	"2,190,000"	"2,140"	546
+10064	1	dummy	"In Sri Lanka, the tsunami resulted in 31187 deaths, 4280 missing people, 23189 injured people, and the displacement of 545715 people."	tsunami	displacement	tsunami displacement	"19,300"	"51,900"	150
+10086	1	dummy	I have found that I have extremely sensitive skin and most cleaners cause rash or a burning sensation if it has contact with my skin.	cleaners	burning sensation	cleaners burning sensation	"32,900"	"6,970"	"1,450"
+10090	1	dummy	"Dry air, dust and wind dry out the nose and throat and cause nosebleeds, coughing, wheezing, and other short-term respiratory problems."	dust	nosebleeds	dust nosebleeds	"98,300"	"1,880"	121
+10102	1	dummy	Depression is among the top 10 causes of suicide both among doctors as well as nursing professionals.	depression	suicide	depression suicide	"99,400"	"203,000"	"15,400"
+10118	1	dummy	The shot caused a wound on the left side of the neck which bled profusely.	shot	wound	shot wound	"1,080,000"	"135,000"	"65,800"
+10134	0	dummy	"Acne is caused by hormonal imbalance within the body, but there are many other contributing factors to acne outbreaks."	acne	hormonal imbalance	acne hormonal imbalance	"4,370"	865	36
+10156	1	dummy	The inflammation causes pain in the joint.	inflammation	pain	inflammation pain	"24,100"	"263,000"	"20,400"
+10177	0	dummy	Genetic disorders are caused by the mutation of a gene.	disorders	mutation	disorders mutation	"55,100"	"16,300"	"1,470"
+10182	0	dummy	Power is generated by an electrochemical reaction of hydrogen and oxygen that yields as its by-product only heat and H2O.	power	reaction	power reaction	"1,700,000"	"282,000"	"78,700"
+10209	0	dummy	"The storm is generated by an upwelling of warmer air, similar to a terrestrial thunderhead."	storm	upwelling	storm upwelling	"202,000"	486	96
+10228	0	dummy	Light blue shows the additional extent of an extreme flood from rivers or the sea.	flood	sea	flood sea	"120,000"	"299,000"	"27,400"
+10230	0	dummy	"From the outset, the TV reporters started talking about two disasters: the natural disaster which was caused by the hurricane and the man-made disaster which happened in New Orleans, the blame for which was laid at the hands of George Bush."	disaster	hurricane	disaster hurricane	"172,000"	"70,000"	"14,300"
+10246	0	dummy	Another reason for the impression of energy and optimism caused by many posters is their very nature as images of propaganda.	energy	posters	energy posters	"403,000"	"132,000"	"6,070"
+10254	0	dummy	Timoshenko commented its laughter after the joke of Putin about Yushchenko and Of.	laughter	joke	laughter joke	"68,300"	"173,000"	"16,700"
+10257	1	dummy	The explosion caused a crater on the ground and destroyed several stalls.	explosion	crater	explosion crater	"161,000"	"24,600"	"4,780"
+10258	0	dummy	"The video then shows the damage caused by the aircraft as it hit the north tower, follows the disintegrating plane through the interior, and then shows the airplane metal, ignited fuel, dust and smoke exiting the building on the opposite side."	damage	aircraft	damage aircraft	"222,000"	"104,000"	"12,500"
+10267	1	dummy	A vehicle accident with a utility pole cause a power outage.	accident	power outage	accident power outage	"250,000"	"9,200"	"38,200"
+10275	1	dummy	"Colds and flu cause high fevers in babies and toddlers, but with the flu, the fever will last more than one or two days."	flu	fevers	flu fevers	"35,300"	"89,200"	"6,300"
+10279	0	dummy	"During the first documented outbreak of human infections with H5N1, which occurred in Hong Kong in 1997, the 18 human cases coincided with an outbreak of highly pathogenic avian influenza, caused by a virtually identical virus, in poultry farms and live markets."	influenza	virus	influenza virus	"13,600"	"132,000"	"7,030"
+10281	0	dummy	"Wrinkles from laughing is a good sign of a healthy, happy life."	wrinkles	laughing	wrinkles laughing	"6,690"	"112,000"	"15,300"
+10285	0	dummy	The damage caused by the  W32/Sircam computer virus is expanding in Japan.	damage	virus	damage virus	"222,000"	"143,000"	"21,100"
+10296	0	dummy	"He has fear from darkness, ghosts, robbers & being alone, of thunder, in the crowd, of death, of disease, of evil, that something may happen."	fear	robbers	fear robbers	"360,000"	"31,800"	"16,300"
+10335	0	dummy	Much of the difference in the total damage caused by the Nisqually and the Northridge earthquakes can be attributed to the Nisqually earthquake's location.	damage	earthquakes	damage earthquakes	"222,000"	"51,400"	"10,500"
+10344	0	dummy	Breast abscess is caused by infection of the engorged glandular system of the breasts.	abscess	infection	abscess infection	"1,680"	"178,000"	298
+10350	1	dummy	The fat and cholesterol cause heart disease; the animal protein causes cancer.	fat	disease	fat disease	"152,000"	"384,000"	"18,000"
+10373	1	dummy	"Later on that same day, an electrical short at the Farragut North station caused a fire on the tracks which shut down service three times over the course of the day."	electrical short	fire	electrical short fire	"16,500"	"1,160,000"	"7,590"
+10379	1	dummy	"The events at the trial caused the dissolution of the Communist League, and a general dampening of revolutionary activity."	events	dissolution	events dissolution	"7,410,000"	"32,900"	"19,200"
+10382	0	dummy	The contamination was caused by residues of the aromatic hydrocarbons.	contamination	residues	contamination residues	"83,400"	"10,400"	"1,620"
+10383	1	dummy	"Asthma is a disease of the respiratory system, which causes swelling and narrowing of the airways."	asthma	narrowing	asthma narrowing	"17,700"	"32,300"	130
+10396	0	dummy	The incident was caused by the entry of high pressure gas from a deep formation that got confined in the porthole of the well.	incident	entry	incident entry	"148,000"	"154,000"	"12,900"
+10398	1	dummy	"The imbalance caused a torque on the moon that acted to synchronize its rotation with its orbit, so that one side is always facing the earth."	imbalance	torque	imbalance torque	"23,400"	"4,410"	75
+10417	0	dummy	"Almost suddenly, I was overcome with an uncontrollable fear which was triggered by the death of my friend."	fear	death	fear death	"360,000"	"12,000,000"	"225,000"
+10419	0	dummy	My view of how the brain works is rooted in an evolutionary perspective that moves from the fact that our mental life reflects the actions of many.	view	perspective	view perspective	"7,100,000"	"147,000"	"63,100"
+10425	0	dummy	"Among the first to survey the devastation caused by the April earthquake, the team discusses what they observed and learned from the damaged buildings."	devastation	earthquake	devastation earthquake	"98,700"	"46,800"	"9,830"
+10426	0	dummy	"Known by the medical field as tinea cruris, jock itch is a persistent reddish, flaky, and itchy rash in the groin and around the anus caused by a fungal imbalance on the skin."	rash	fungal imbalance	rash fungal imbalance	"26,500"	102	5
+10434	1	dummy	"Each time a neuron unleashes its tiny jolt, it needs to replenish its stores of energy for the next spark."	neuron	jolt	neuron jolt	"4,440"	"18,700"	53
+10466	0	dummy	Tsunamis are caused by the sudden displacement of large volumes of water.	tsunamis	displacement	tsunamis displacement	"16,700"	"51,900"	661
+10468	1	dummy	Scientists have revealed how environmental irritants such as air pollution and cigarette smoke which cause coughing in people.	irritants	coughing	irritants coughing	"6,390"	"20,400"	554
+10481	0	dummy	The recent decline has been caused by the environmentally-induced collapse of fish catches from the Black Sea.	decline	collapse	decline collapse	"344,000"	"135,000"	"26,500"
+10493	1	dummy	"Chocolates, junk food, dirty skin, and stress cause acne."	chocolates	acne	chocolates acne	"68,000"	"4,370"	957
+10500	0	dummy	"I ended up going to the doctor, although it was just coughing from allergies."	coughing	allergies	coughing allergies	"17,800"	"21,000"	"1,220"
+10501	0	dummy	"Three times (every 1200 years), the gods were distressed by the disturbance from human overpopulation."	disturbance	overpopulation	disturbance overpopulation	"55,400"	"4,330"	216
+10504	1	dummy	"The announcement of the game caused a stir on the web yesterday, with the Weekly Standard launching a protest campaign encouraging readers to e-mail Microsoft and T-Enterprise, the out-of-its-depth company that had hired actual Gitmo detainee Moazzam Begg as a consultant on the game."	announcement	stir	announcement stir	"1,410,000"	"94,800"	"29,000"
+10505	1	dummy	The fat and cholesterol cause heart disease; the animal protein causes cancer.	protein	cancer	protein cancer	"114,000"	"169,000"	"9,460"
+10523	0	dummy	A method for computing the deformation of the crust caused by the filling of large lakes.	deformation	filling	deformation filling	"4,040"	"398,000"	867
+10524	0	dummy	"I had been constipated for over 30 years, had significant sleep requirements (average 9+ hours a night), and had recurring headaches from fatigue and allergies."	headaches	allergies	headaches allergies	"41,600"	"21,000"	"1,260"
+10528	0	dummy	Social breakdown and poverty caused by civil war in several African countries has caused further increases in the rate of prostitution in those countries.	breakdown	war	breakdown war	"77,100"	"2,690,000"	"22,100"
+10544	1	dummy	"Since hunger and poverty cause violence and unrest, the solution must be found in other than military action."	hunger	unrest	hunger unrest	"168,000"	"57,500"	"5,470"
+10545	0	dummy	"However, recent research demonstrates that most ulcers of the duodenum are caused by an infectious agent named Helicobacter pylori or H. pylori."	ulcers	infectious agent	ulcers infectious agent	"5,070"	"8,260"	79
+10551	0	dummy	"To alleviate the inconvenience caused by the fence, the Cabinet approved a plan to construct 11 passages through the barrier to facilitate movement in and out of the city."	inconvenience	fence	inconvenience fence	"23,800"	"72,100"	"1,050"
+10552	1	dummy	The sound waves cause disorientation and nausea.	waves	nausea	waves nausea	"234,000"	"8,670"	555
+10577	1	dummy	"The clot later caused a seizure, leaving Nathan completely paralyzed on the right side of his body."	clot	seizure	clot seizure	"11,300"	"126,000"	462
+10578	0	dummy	In ionic conduction charge carriers are affected by the electromagnetic radiation from the microwaves by being attracted or repelled by the electric field.	radiation	microwaves	radiation microwaves	"18,100"	"11,900"	"1,260"
+10584	1	dummy	"We already know ignorance, heat, boredom, greed and poverty cause violence even in the U.S."	boredom	violence	boredom violence	"12,700"	"363,000"	"2,040"
+10597	1	dummy	The struggle with the door and the oiler caused a disturbance on the ship.	struggle	disturbance	struggle disturbance	"275,000"	"55,400"	"3,530"
+10599	0	dummy	"Plaintiffs seek compensatory damages for personal injuries, property damage, emotional distress, and expenses resulting from the evacuation after the explosion."	evacuation	explosion	evacuation explosion	"53,900"	"154,000"	"3,270"
+10605	1	dummy	"The industry only reports incidents that have resulted in serious physical injuries, and reporting is left up to the cruise line with no oversight."	incidents	injuries	incidents injuries	"133,000"	"155,000"	"35,800"
+10606	1	dummy	"This time, though, they left the fire unattended and the wind caused nearby leaves to catch fire, spreading 14 feet to the building."	wind	fire	wind fire	"214,000"	"900,000"	"42,100"
+10614	0	dummy	The complication arose from the light irradiation.	complication	irradiation	complication irradiation	"51,900"	"1,520"	"1,250"
+10622	1	dummy	The bombing resulted in the deaths of 1318 in Hanoi.	bombing	deaths	bombing deaths	"191,000"	"10,600,000"	"61,300"
+10627	0	dummy	The error was caused by the illegal embedded code tags.	error	tags	error tags	"358,000"	"62,400"	"3,030"
+10629	1	dummy	Liver plays key role in how steroids cause diabetes and hypertension.	steroids	hypertension	steroids hypertension	"8,260"	"5,470"	200
+10637	0	dummy	The poet Essex Hemphill conquered sorrow after the loss of a friend by taking up the cause of that friend.	sorrow	loss	sorrow loss	"51,300"	"476,000"	"12,100"
+10639	0	dummy	"The winds are caused by moisture, originating off the Pacific coast, cooling as they climb the western slopes, and then rapidly warming as they drop down the eastern side of the mountains."	winds	moisture	winds moisture	"204,000"	"17,000"	"4,320"
+10641	0	dummy	The drag caused by the Earth's atmosphere works against a rocket or a water molecule.	drag	atmosphere	drag atmosphere	"79,500"	"118,000"	"3,930"
+10642	1	dummy	"Endometriosis is the cause of pelvic pain (dysmenorrhea, dyspareunia) and infertility in more than 35% of women of reproductive age."	endometriosis	infertility	endometriosis infertility	872	"4,580"	138
+10643	0	dummy	Most of the flooding has been caused by the clogging of drains.	flooding	clogging	flooding clogging	"111,000"	"19,200"	"2,440"
+10645	0	dummy	The dips are caused by the thermal diffuse of y-rays which is reflected secondarily by the net planes in the same crystal.	dips	y-rays	dips y-rays	"43,400"	"27,100"	"1,490"
+10646	0	dummy	"The JNC also is currently accepting applications for the vacancy created by the retirement of Judge Edwin B. Browning, Jr."	vacancy	retirement	vacancy retirement	"62,600"	"357,000"	"6,410"
+10650	0	dummy	The evening's performance was a great production by a first-class company - and not expensive.	performance	company	performance company	"402,000"	"34,000,000"	"983,000"
+10692	1	dummy	Two of the incidents resulted in fatal CO poisonings (COHb levels of 55% and 49% ).	incidents	poisonings	incidents poisonings	"133,000"	"1,340"	"2,940"
+10703	1	dummy	"In this excellent fourth Sunny Randall PI tale (after Shrink Rap), is shown how sadness leads to murder."	sadness	murder	sadness murder	"32,600"	"1,210,000"	"5,750"
+10704	0	dummy	She was looking beautiful in the dim light that emanated from my broken table-lamp.	light	table-lamp	light table-lamp	"854,000"	"13,600"	"5,410"
