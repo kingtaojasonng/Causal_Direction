@@ -1,0 +1,2 @@
+train_file	test_file	num_labels	epochs	accuracy
+../data/SemEval2007_task4/data/train_SemEval2007_causal_effect_direction_prior2.tsv	../data/SemEval2007_task4/data/test_SemEval2007_causal_effect_direction.tsv	2	10	0.9512195121951219
