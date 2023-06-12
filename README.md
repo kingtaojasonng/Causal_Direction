@@ -3,7 +3,7 @@ Author: [King Tao Jason Ng](https://www.linkedin.com/in/jasonkng/)
 
 ## Introduction
 
-Our project is to determine a causal direction if its causal relation exists in a sentence, especially when no training data is provided. We want to find out whether the Bayesian framework boosts performance for Bidirectional Encoder Representations from Transformers (BERT). Hence, we propose a two-phase method: 1. Bayesian framework, which augments data by incorporating word occurrences from the Internet's domains. 2. BERT, which utilises semantics of words based on the context to perform classification. In data augmentation, the proposed method boosts F1 score ever slightly compared with BERT alone, but the difference is not statistically significant. In unsupervised learning, the proposed method does achieve a decent performance in contrast to random guessing. We show empirically word occurrences resemble the characteristics of causal directions to the extent of certainty that the Bayesian framework can qualify.
+In this project, we show empirically word occurrences resemble the characteristics of causal directions. Our aim is to gain insights into the data generation process that underlies causal directions. To achieve this, we determine a causal direction if its causal relation exists in the sentence. We propose a two-phase method: Bayesian framework and BERT, applied in two scenarios. In data augmentation, the proposed method improves the F1 score compared with BERT, but the difference is not significant. In unsupervised learning, it achieves a decent performance in contrast with random guessing. The study can be extended to capture multiple causal relations.
 
 ## Folder Structure
 
