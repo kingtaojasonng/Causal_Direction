@@ -1,4 +1,4 @@
-# Identifying Causal Directions from Text - Unsupervised Learning using Bayesian Framework
+# Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework
 Author: [King Tao Jason Ng](https://www.linkedin.com/in/jasonkng/)
 
 ## Introduction
